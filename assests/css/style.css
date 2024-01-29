@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* header Section start */
+
+.bg-blue{
+    background-color: #212a43;
+}
+
+.text-danger1{
+    color: #D5385F !important;
+}
+
+.bg-danger3{
+    background: #5C327A;
+}
+
+.bg-purple{
+    background: #1F1631;
+}
+
+.top-10{
+    top: 10%;
+}
+
+.top-15{
+    top: 15%;
+}
+
+.top-20{
+    top: 20%;
+}
+
+.text-success1{
+    color: #376118;
+}
+
+/* header Section end */
+
+
+/* banner section start */
+
+.banner{
+    width: 100%;
+    height: 570px;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),url("../img/Tree.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.nav-tabs .nav-link.active {
+    background: #D5385F;
+}
+.form-control:focus {
+    box-shadow: 0px 0px 0px;
+}
+
+/* banner section end */
+
+/* fun section start */
+
+.fun{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../img/mountain.jpeg);
+    background-size: cover;
+    background-position: 100% 100%;
+}
+
+/* fun section end */
+
+/* subscribe section start */
+
+.subs{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)),url(../img/flying_plane.jpg);
+    background-size: 100% 100%;
+}
+
+/* subscribe section end */
